@@ -7,7 +7,6 @@ Uma apresentação pessoal simples, sem CSS — foco total em estrutura semânti
 
 ## 📸 Preview
 
-
 ![Preview da página Sobre Mim](Imagem/preview.jpg)
 
 ---
@@ -43,9 +42,9 @@ Uma apresentação pessoal simples, sem CSS — foco total em estrutura semânti
 
 ## 🚀 Como visualizar
 
-Não precisa de servidor. Basta abrir o arquivo:
-Duplo clique no arquivo → abre direto no navegador.
-exercício\01-sobre-mim
+**Online:** [Abrir página ao vivo](https://ultranocode.github.io/desafios-frontend/html-css/01-sobre-mim/)
+
+**Localmente:** clone o repositório e abra `html-css/01-sobre-mim/index.html` no navegador.
 
 ---
 
@@ -53,6 +52,25 @@ exercício\01-sobre-mim
 
 Este é o **Desafio #1 de 15** da trilha de estudos HTML & CSS.
 
+| # | Desafio | Status |
+|---|---------|--------|
+| 01 | Página "Sobre Mim" | ✅ Concluído |
+| 02 | Receitas Favoritas | ⏳ Pendente |
+| 03 | Blog de Filmes | ⏳ Pendente |
+| 04 | Formulário de Contato | ⏳ Pendente |
+| 05 | Pesquisa de Satisfação | ⏳ Pendente |
+| 06 | Página de Produto com Mídia | ⏳ Pendente |
+| 07 | Estilizar "Sobre Mim" | ⏳ Pendente |
+| 08 | Botões Interativos | ⏳ Pendente |
+| 09 | Card de Perfil | ⏳ Pendente |
+| 10 | Navbar com Flexbox | ⏳ Pendente |
+| 11 | Galeria com Grid | ⏳ Pendente |
+| 12 | Página Responsiva | ⏳ Pendente |
+| 13 | Portfólio Pessoal | ⏳ Pendente |
+| 14 | Landing Page | ⏳ Pendente |
+| 15 | Cardápio de Cafeteria | ⏳ Pendente |
+
+---
 
 ## 👨‍💻 Autor
 
