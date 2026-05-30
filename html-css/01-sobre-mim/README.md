@@ -55,8 +55,8 @@ Este é o **Desafio #1 de 15** da trilha de estudos HTML & CSS.
 | # | Desafio | Status |
 |---|---------|--------|
 | 01 | Página "Sobre Mim" | ✅ Concluído |
-| 02 | Receitas Favoritas | ⏳ Pendente |
-| 03 | Blog de Filmes | ⏳ Pendente |
+| 02 | Receitas Favoritas | ✅ Concluído |
+| 03 | Blog de Filmes | 🔄 Em andamento |
 | 04 | Formulário de Contato | ⏳ Pendente |
 | 05 | Pesquisa de Satisfação | ⏳ Pendente |
 | 06 | Página de Produto com Mídia | ⏳ Pendente |
