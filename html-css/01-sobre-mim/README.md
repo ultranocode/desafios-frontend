@@ -8,7 +8,7 @@ Uma apresentação pessoal simples, sem CSS — foco total em estrutura semânti
 ## 📸 Preview
 
 
-![Preview da página Sobre Mim](Imagem/preview.png)
+![Preview da página Sobre Mim](html-css/01-sobre-mim/Imagem/preview.jpg)
 
 ---
 
