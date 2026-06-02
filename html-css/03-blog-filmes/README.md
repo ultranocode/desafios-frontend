@@ -8,7 +8,7 @@ e elementos de referência (`cite`, `time`, `figure`).
 
 ## 📸 Preview
 
-![Preview do Blog Ultra Filmes](Imagens/preview.jpg)
+![Preview do Blog Ultra Filmes](imagens/preview.jpg)
 
 ---
 
