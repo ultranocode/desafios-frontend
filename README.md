@@ -16,8 +16,8 @@ do zero ao layout responsivo e aplicações com APIs.
 |---|---------|-------------|--------|------|
 | 01 | [Página "Sobre Mim"](html-css/01-sobre-mim/) | HTML | ✅ Concluído | [▶ ver](https://ultranocode.github.io/desafios-frontend/html-css/01-sobre-mim/) |
 | 02 | [Receitas Favoritas](html-css/02-receitas/) | HTML | ✅ Concluído | [▶ ver](https://ultranocode.github.io/desafios-frontend/html-css/02-receitas/) |
-| 03 | [Blog de Filmes](html-css/03-blog-filmes/) | HTML | 🔄 Em andamento | — |
-| 04 | [Formulário de Contato](html-css/04-contato/) | HTML | ⏳ Pendente | — |
+| 03 | [Blog de Filmes](html-css/03-blog-filmes/) | HTML | ✅ Concluído | [▶ ver](https://ultranocode.github.io/desafios-frontend/html-css/03-blog-filmes/) |
+| 04 | [Formulário de Contato](html-css/04-contato/) | HTML | 🔄 Em andamento  | — |
 | 05 | [Pesquisa de Satisfação](html-css/05-pesquisa/) | HTML | ⏳ Pendente | — |
 | 06 | [Página de Produto com Mídia](html-css/06-produto/) | HTML | ⏳ Pendente | — |
 | 07 | [Estilizar "Sobre Mim"](html-css/07-sobre-mim-css/) | HTML · CSS | ⏳ Pendente | — |
