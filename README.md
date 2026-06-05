@@ -18,8 +18,8 @@ do zero ao layout responsivo e aplicações com APIs.
 | 02 | [Receitas Favoritas](html-css/02-receitas/) | HTML | ✅ Concluído | [▶ ver](https://ultranocode.github.io/desafios-frontend/html-css/02-receitas/) |
 | 03 | [Blog de Filmes](html-css/03-blog-filmes/) | HTML | ✅ Concluído | [▶ ver](https://ultranocode.github.io/desafios-frontend/html-css/03-blog-filmes/) |
 | 04 | [Formulário de Contato](html-css/04-contato/) | HTML | ✅ Concluído  | [▶ ver](https://ultranocode.github.io/desafios-frontend/html-css/04-contato/) |
-| 05 | [Pesquisa de Satisfação](html-css/05-pesquisa/) | HTML | 🔄 Em andamento | — |
-| 06 | [Página de Produto com Mídia](html-css/06-produto/) | HTML | ⏳ Pendente | — |
+| 05 | [Pesquisa de Satisfação](html-css/05-pesquisa/) | HTML | ✅ Concluído | [▶ ver](https://ultranocode.github.io/desafios-frontend/html-css/05-pesquisa/) |
+| 06 | [Página de Produto com Mídia](html-css/06-produto/) | HTML |🔄 Em andamento | — |
 | 07 | [Estilizar "Sobre Mim"](html-css/07-sobre-mim-css/) | HTML · CSS | ⏳ Pendente | — |
 | 08 | [Botões Interativos](html-css/08-botoes/) | HTML · CSS | ⏳ Pendente | — |
 | 09 | [Card de Perfil](html-css/09-card-perfil/) | HTML · CSS | ⏳ Pendente | — |
