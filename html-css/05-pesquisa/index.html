@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pesquisa de Satisfação</title>
+</head>
+
+<body>
+    <h1>Pesquisa de Satisfação — Mais Café!</h1>
+
+    <form action="/enviar" method="post">
+
+        <label for="data">Data da Visita:</label><br>
+        <input type="date" id="data" name="data" required><br><br>
+
+        <label for="nome">Nome (Opcional):</label><br>
+        <input type="text" id="nome" name="nome"><br><br>
+
+        <label for="email">Email (Opcional):</label><br>
+        <input type="email" id="email" name="email"
+               placeholder="seu.email@exemplo.com"><br><br>
+
+        <fieldset>
+            <legend>1. Em uma escala de 1 a 10, qual a sua satisfação geral?</legend>
+            <input type="range" id="satisfacao" name="satisfacao"
+                   min="1" max="10" value="8"
+                   oninput="valorNota.innerText = this.value">
+            <p><strong>Nota:</strong> <span id="valorNota">8</span></p>
+        </fieldset><br>
+
+        <fieldset>
+            <legend>2. Como você conheceu a Mais Café?</legend>
+            <input type="radio" id="conheci_indicacao" name="conheceu" value="indicacao">
+            <label for="conheci_indicacao">Indicação de um amigo ou familiar</label><br>
+            <input type="radio" id="conheci_redes" name="conheceu" value="redes">
+            <label for="conheci_redes">Redes sociais (Instagram, Facebook, etc.)</label><br>
+            <input type="radio" id="conheci_busca" name="conheceu" value="busca">
+            <label for="conheci_busca">Pesquisa online (Google, etc.)</label><br>
+            <input type="radio" id="conheci_outros" name="conheceu" value="outros">
+            <label for="conheci_outros">Outros</label>
+        </fieldset><br>
+
+        <fieldset>
+            <legend>3. O que você comprou hoje?</legend>
+            <input type="checkbox" id="produto1" name="produtos" value="cafe">
+            <label for="produto1">Café</label><br>
+            <input type="checkbox" id="produto2" name="produtos" value="bolo">
+            <label for="produto2">Bolo/Torta</label><br>
+            <input type="checkbox" id="produto3" name="produtos" value="sanduiche">
+            <label for="produto3">Sanduíche</label><br>
+            <input type="checkbox" id="produto4" name="produtos" value="suco">
+            <label for="produto4">Suco</label><br>
+            <input type="checkbox" id="produto5" name="produtos" value="outros">
+            <label for="produto5">Outros</label>
+        </fieldset><br>
+
+        <label for="mensagem">Deixe seu comentário:</label><br>
+        <textarea id="mensagem" name="mensagem"
+                  rows="15" cols="30" required></textarea><br><br>
+
+        <button type="submit">Enviar</button>
+        <button type="reset">Limpar</button>
+
+    </form>
+</body>
+
+</html>
